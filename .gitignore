@@ -1,0 +1,14 @@
+# Octave backup files
+*.m~
+*.orig
+*.rej
+
+# Output logs or generated files
+output.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
