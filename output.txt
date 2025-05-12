@@ -1,0 +1,17 @@
+Solution x for the original system:
+3.460586
+1.560953
+-2.934234
+-0.430060
+
+Solution x for the modified system:
+6.783098
+3.591442
+-6.445122
+-1.517924
+
+Difference in solutions due to numerical error:
+3.322512
+2.030489
+3.510888
+1.087865
